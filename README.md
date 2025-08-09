@@ -90,6 +90,3 @@ Pull requests are welcome! Please submit issues for bugs or feature requests.
 
 ---
 
-## 🧾 License
-
-MIT License
